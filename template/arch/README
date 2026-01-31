@@ -1,0 +1,8 @@
+This directory is populated at snapshot/remaster time.
+Expected layout:
+  arch/boot/x86_64/vmlinuz-linux
+  arch/boot/x86_64/archiso.img
+  arch/x86_64/airootfs.sfs
+  arch/x86_64/airootfs.sfs.md5 (optional)
+  arch/x86_64/airootfs.info (optional)
+  arch/pkglist.x86_64.txt (optional)
